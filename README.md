@@ -127,9 +127,9 @@ else:
 
 ### Output:
 
-![Screenshot](output.png)
+![Screenshot](img/output.png)
 
-![Screenshot](plot.png)
+![Screenshot](img/plot.png)
 
 
 ### Result:
